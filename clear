@@ -1,0 +1,19 @@
+[1mdiff --git "a/cap\303\255tulos/cap\303\255tulo1.txt" "b/cap\303\255tulos/cap\303\255tulo1.txt"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7431f9e[m
+[1m--- /dev/null[m
+[1m+++ "b/cap\303\255tulos/cap\303\255tulo1.txt"[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mGit es un sistema de control de versiones ideado por Linus Torvalds.[m
+[1mdiff --git "a/cap\303\255tulos/cap\303\255tulo2.txt" "b/cap\303\255tulos/cap\303\255tulo2.txt"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..879e84d[m
+[1m--- /dev/null[m
+[1m+++ "b/cap\303\255tulos/cap\303\255tulo2.txt"[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32mEl flujo de trabajo básico con Git consiste en: 1- Hacer cambios en el repositorio. 2- Añadir los cambios a la zona de intercambio temporal. 3- Hacer un commit de los cambios.[m
+[32m+[m[32m[A[C[C[C[C[C[C[C[C[C[C[D[m
+[32m+[m[32m[A[C[C[C[C[C[C[C[C[C[C[[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[A[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[El flujo de trabajo básico con Git consiste en:[m
+[32m+[m[32m1- Hacer cambios en el repositorio.[m
+[32m+[m[32m2- Añadir los cambios a la zona de intercambio temporal.[m
+[32m+[m[32m3- Hacer un commit de los cambios.[m
